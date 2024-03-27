@@ -1,6 +1,7 @@
 # Business-Case-Study---Netflix-Data-Exploration-and-Visualization
 
-![image](https://github.com/basuli97/Business-Case-Study---Netflix-Data-Exploration-and-Visualization/assets/151706540/42cd953f-32e3-4933-8a50-4695ff7c78e5)
+![image](https://github.com/basuli97/Business-Case-Study---Netflix-Data-Exploration-and-Visualization/assets/151706540/59d03048-2ad4-4223-a8e6-74fd873d0e44)
+
 
 
 Welcome to the Netflix Data Exploration and Visualization project! 🎉 In this repository, we delve into the world of Netflix to uncover valuable insights from their vast library of movies and TV shows. Whether you're a data enthusiast or a Netflix aficionado, this project has something for everyone.
